@@ -30,28 +30,28 @@ function myFunction() {
 
          <form action="mprocess.php" method="POST" enctype="multipart/form-data"> 	
 				<br />		
-				<label> Operator Type <span>*</span></label>
-				                       <select class="" name="operator" id="network" required="">
-					                                   <option> </option>	
-														<option>MTN</option>
-														<option>AirtelTigo</option>
-														</select>
+		<label> Operator Type <span>*</span></label>
+		    <select class="" name="operator" id="network" required="">
+	               <option> </option>	
+		       <option>MTN</option>
+		       <option>AirtelTigo</option>
+		    </select>
 				<br />	<br />
-				<label>Subscription Amount <span>*</span></label> 
-				                        <select class="" name="amount"  required="">
-					                                   <option> </option>	
-														<option> 1 </option>
-														<option> 2 </option>
-														</select>
+	        <label>Subscription Amount <span>*</span></label> 
+		    <select class="" name="amount"  required="">
+		      <option> </option>	
+		      <option> 1 </option>
+		      <option> 2 </option>
+		    </select>
 				<br /> <br /> 	 	
 				
-				<label>Your Wallet Number <span>*</span></label> 
+		 <label>Your Wallet Number <span>*</span></label> 
 				
-				 <input type="text"  name="user_number" id="user_number" required="">
+		 <input type="text"  name="user_number" id="user_number" required="">
 				 
 				<br />	
-				<input type="submit" onclick="myFunction()" id="submit" value="Pay">	
-		</form>
+		 <input type="submit" onclick="myFunction()" id="submit" value="Pay">	
+	    </form>
 				
 </body>
 
