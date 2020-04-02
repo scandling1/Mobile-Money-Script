@@ -3,8 +3,9 @@
   Email: denkkicks@gmail.com
   Last Updated: March 20, 2020.
  -->
+<!DOCTYPE html>
 <html>  
-
+<head>
  <title> Pay subscription </title>
  <script>
 function myFunction() {
@@ -24,7 +25,7 @@ function myFunction() {
   }
 }
 </script>
- 
+ </head>
 <body>
     <center><div id="dontRefresh" center=""></div></center>
 
