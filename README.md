@@ -1,6 +1,6 @@
-# Written by: Emmanuel Scandling
-# Email: denkkicks@gmail.com
-# Last Updated: March 20, 2020.
+* Written by: Emmanuel Scandling
+* Email: denkkicks@gmail.com
+* Last Updated: March 20, 2020.
 
 # Mobile-Money-Script for Ghana
 This script allows you to initiate a payment request (MTN / AirtelTigo) through an HTML form and its powered by mazzuma API
