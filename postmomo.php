@@ -3,7 +3,6 @@
   Email: denkkicks@gmail.com
   Last Updated: March 20, 2020.
  -->
-<!DOCTYPE html>
 <html>  
 <head>
  <title> Pay subscription </title>
