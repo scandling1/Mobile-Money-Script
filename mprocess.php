@@ -56,7 +56,7 @@ $data = array(
   "recipient_number"=> "0547293451",    // MTN number to receive all transaction 
   "sender"=> $user_number,     // Sender Number ( $user_number )
   "option"=> $option,      // set if amount is being sent from mtn or airteltigo ( $option )
-  "apikey"=> "6eaf6a0755a839f8b56babddf5c24b3b0dfe04b1",  // Replace this API with your API key from your mazzzuma dashboard
+  "apikey"=> " ",  // Insert your API key from your mazzzuma dashboard
   "orderID"=> $orderID     // order Id of the transaction. We will use it to confirm the transaction if its pending or successful ($orderID)
   );
 $data = json_encode($data);
