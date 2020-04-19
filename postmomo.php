@@ -52,7 +52,7 @@ function myFunction() {
 				 
 				<br />	
 		 <input type="submit" onclick="myFunction()" id="submit" value="Pay">	
-	    </form>
+	   </form>
 				
 </body>
 
