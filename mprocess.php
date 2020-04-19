@@ -72,7 +72,7 @@ $server_output = curl_exec ($ch);
   // Send the orderID and the user details to the admin email and your email as a notification of a new subscriber
   // also send the same details to the database
   // Use the oderId to find out if the order is pending or successful at the mazzuma dashboard
-  // or use this link " https://client.teamcyst.com/api_call.php?orderID=<orderID> " , with the orderID parameter set to the orderID. 
+  // or use this link " https://client.teamcyst.com/checktransaction.php?orderID=<orderID> " , with the orderID parameter set to the orderID. 
   // and confirm the user manually to avoid intruders gaining free subscription 
 
    header("location: https://efaculty.elbeng.com"); // direct the user to his or her dashboard
